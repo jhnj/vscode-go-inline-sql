@@ -1,12 +1,13 @@
 {
   "name": "vscode-go-inline-sql",
   "displayName": "vscode-go-inline-sql",
-  "description": "SQL syntax highlighting for sql in raw strings",
+  "description": "Syntax highlighting for inline sql in go",
   "version": "0.1.0",
   "publisher": "jhnj",
   "engines": {
     "vscode": "^1.53.0"
   },
+  "repository": "github:jhnj/vscode-go-inline-sql",
   "categories": [
     "Programming Languages"
   ],
