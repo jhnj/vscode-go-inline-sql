@@ -8,7 +8,10 @@
   "engines": {
     "vscode": "^1.53.0"
   },
-  "repository": "github:jhnj/vscode-go-inline-sql",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhnj/vscode-go-inline-sql.git"
+  },
   "categories": [
     "Programming Languages"
   ],
