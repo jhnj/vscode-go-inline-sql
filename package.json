@@ -2,7 +2,7 @@
   "name": "vscode-go-inline-sql",
   "displayName": "vscode-go-inline-sql",
   "description": "Syntax highlighting for inline sql in go",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "publisher": "jhnj",
   "engines": {
