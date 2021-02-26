@@ -3,6 +3,7 @@
   "displayName": "vscode-go-inline-sql",
   "description": "Syntax highlighting for inline sql in go",
   "version": "0.1.0",
+  "license": "MIT",
   "publisher": "jhnj",
   "engines": {
     "vscode": "^1.53.0"
