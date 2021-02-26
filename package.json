@@ -3,7 +3,7 @@
   "displayName": "Inline SQL for go",
   "icon": "images/logo.png",
   "description": "Syntax highlighting for inline sql in go",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "publisher": "jhnj",
   "engines": {
